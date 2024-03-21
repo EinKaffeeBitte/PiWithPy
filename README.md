@@ -10,3 +10,5 @@ This is a Python console application that calculates the number Pi. You can choo
 The code does not use any extra modules and can be built using whatever you want, PyInstaller is my preference. Prebuilt Windows binaries can be found in the releases section.
 
 ## License
+
+You are allowed to use the code however you like, including modifying it. However your product must also be open sourced and must mention me as the original author.
