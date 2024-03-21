@@ -105,3 +105,5 @@ while i <= n:
     d = d + 2
     i = i + 1
 print(pii)
+print("Press anything to exit...")
+input()
